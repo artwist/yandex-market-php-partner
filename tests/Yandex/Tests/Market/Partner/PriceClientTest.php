@@ -1,6 +1,6 @@
 <?php
 
-namespace Yandex\Tests\Market;
+namespace Yandex\Tests\Market\Partner;
 
 use GuzzleHttp\Psr7\Response;
 use Yandex\Market\Partner\Clients\PriceClient;
